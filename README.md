@@ -8,7 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MackenzieGeek&layout=compact&langs_count=10&theme=radical)
 
 # Visitors
-![](https://images.prismic.io/glitch-cms/1af7e186-fc56-4b7b-a8c7-e458f46449e6_02863ac1-a499-4a41-ac9c-41792950000f_pencil-distance+1.png?auto=comp)
 ![](https://count.getloli.com/get/@MackenzieGeek?theme=gelbooru)
 
 # 💻 Environment
